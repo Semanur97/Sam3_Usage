@@ -1,0 +1,7 @@
+# Colab'da torch zaten kurulu. SAM3 için güncel transformers gerekir.
+transformers>=5.0
+accelerate
+pycocotools
+matplotlib
+tqdm
+pytest
